@@ -38,4 +38,4 @@ yum makecache
 # Install PHP and necessary modules
 yum install php php-cli php-fpm php-mysqlnd php-xml php-mbstring php-json php-gd php-curl -y
 
-echo "Repository updated and PHP installed successfully."
+echo "Fix lỗi thành công ( Copyright @ Pham Do)."
