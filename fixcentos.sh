@@ -39,3 +39,4 @@ yum makecache
 yum install php php-cli php-fpm php-mysqlnd php-xml php-mbstring php-json php-gd php-curl -y
 
 echo "Fix lỗi thành công "
+echo " Đô chào tất cả các bạn=)) "
